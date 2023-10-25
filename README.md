@@ -10,14 +10,18 @@ Backend Engineer adept at creating applications using **Python**, **Django**, **
 Excited to collaborate and work on **Any Interesting Projects** !
 Eager to **contribute**, **learn** and **grow**.
 
-### 🚀 My Skills and Technologies
+### 🚀 My Skills and Technologies ...
 Python Javascript SQL C++ C  
 MySQL SQLite MongoDB  
 Django Flask MERN NodeJS ExpressJS ReactJS HTML CSS  
 Linux Git Docker
 
-### - 📫 How to reach me: ...
-<a href='https://www.linkedin.com/in/shazil-ahmed/'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU)" alt="HTML" width="40" height="35"></a>
+### 🔥 Stats ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shazilahmed17&layout=compact&theme=vision-friendly-dark)]
+![Shazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shazilahmed17&show_icons=true&theme=dark)
+
+### - 📫 Reach out to me: ...
+<a href='https://www.linkedin.com/in/shazil-ahmed/'><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/02/3e/d9/023ed9e7-6e1e-53fe-3ca9-5e2a727ce910/source/200x200bb.jpg" alt="HTML" width="60" height="60"></a>
 <!--
 **shazilahmed17/shazilahmed17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
