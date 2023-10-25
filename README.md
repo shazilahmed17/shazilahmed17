@@ -17,9 +17,7 @@ Django Flask MERN NodeJS ExpressJS ReactJS HTML CSS
 Linux Git Docker
 
 ### - 📫 How to reach me: ...
-![HTML icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU){:height="1px" width="1px"}
-
-
+<a href='https://www.linkedin.com/in/shazil-ahmed/'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU)" alt="HTML" width="40" height="35"></a>
 <!--
 **shazilahmed17/shazilahmed17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
