@@ -17,7 +17,7 @@ Django Flask MERN NodeJS ExpressJS ReactJS HTML CSS
 Linux Git Docker
 
 ### - 📫 How to reach me: ...
-![HTML Icon](URL) HTML
+![HTML icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY9DZvsvu0uiUY1V2gRg8NGbtTBtIJQZ09KIaUzqVF6zaEo6Aa6ktohOCMVSmiCB7CGE&usqp=CAU){:height="1px" width="1px"}
 
 
 <!--
